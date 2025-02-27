@@ -1,0 +1,29 @@
+{
+    "name": "nuxtui",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "dependencies": {
+        "nuxt": "^3.15.4"
+    },
+    "devDependencies": {
+        "@nuxt/ui": "3.0.0-alpha.13"
+    },
+    "overrides": {
+        "tailwindcss": "4.0.7",
+        "@tailwindcss/postcss": "4.0.7",
+        "@tailwindcss/vite": "4.0.7"
+    },
+    "resolutions": {
+        "tailwindcss": "4.0.7",
+        "@tailwindcss/postcss": "4.0.7",
+        "@tailwindcss/vite": "4.0.7"
+    },
+    "author": "syvixor"
+}
