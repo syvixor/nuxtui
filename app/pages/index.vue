@@ -8,7 +8,7 @@
             <p class="text-sm font-normal">Starter Template</p>
         </div>
         <div class="flex items-center gap-2">
-            <UButton to="https://ui3.nuxt.dev/getting-started/installation/nuxt" icon="i-heroicons-book-open"
+            <UButton to="https://ui.nuxt.com/getting-started/installation/nuxt" icon="i-heroicons-book-open"
                 label="Documentation" color="primary" variant="subtle" />
             <UButton to="https://github.com/syvixor/nuxtui" icon="i-heroicons-link" label="GitHub" color="neutral"
                 variant="ghost" />
